@@ -1,2 +1,6 @@
-# conda deactivate
-# https://github.com/varshahindupur09/NetflixRecommendationSystem.git
+ipykernel==6.28.0
+ipython==8.18.1
+matplotlib==3.8.2
+numpy==1.26.3
+pandas==2.1.4
+seaborn==0.13.1
