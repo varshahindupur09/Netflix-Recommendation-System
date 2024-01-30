@@ -26,6 +26,17 @@ git pull origin main
 
 To address some of the limitations of content-based filtering, collaborative filtering uses similarities between users and items simultaneously to provide recommendations. This allows for serendipitous recommendations; that is, collaborative filtering models can recommend an item to user A based on the interests of a similar user B. Furthermore, the embeddings can be learned automatically, without relying on hand-engineering of features.
 
+Tech Stack: Scikit-Surprise
+
+Results:
+
+![image](https://github.com/varshahindupur09/Netflix-Recommendation-System/assets/114629181/8c985474-7d00-4004-abc5-b3584e8b4749)
+
+Best RMSE: 0.9892
+
+
+
+
 
 
 
