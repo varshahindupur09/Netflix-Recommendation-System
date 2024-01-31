@@ -35,6 +35,19 @@ Results:
 Best RMSE: 0.9892
 
 
+# Analyzed Data with respect to movie titles
+
+![image](https://github.com/varshahindupur09/Netflix-Recommendation-System/assets/114629181/62fa74d0-fbed-42c0-a9f5-f993f248cb5e)
+
+![image](https://github.com/varshahindupur09/Netflix-Recommendation-System/assets/114629181/4af29e50-666d-4f80-9659-38beb228e03d)
+
+![image](https://github.com/varshahindupur09/Netflix-Recommendation-System/assets/114629181/f4007355-ba93-4f51-950b-540c55cda7d5)
+
+![image](https://github.com/varshahindupur09/Netflix-Recommendation-System/assets/114629181/9e521b0b-b7ea-4662-8220-6fb86fb4f446)
+
+![image](https://github.com/varshahindupur09/Netflix-Recommendation-System/assets/114629181/fbc1f69f-028b-4dd4-8028-d97d0a970e5f)
+
+
 
 
 
