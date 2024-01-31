@@ -48,7 +48,9 @@ Best RMSE: 0.9892
 ![image](https://github.com/varshahindupur09/Netflix-Recommendation-System/assets/114629181/fbc1f69f-028b-4dd4-8028-d97d0a970e5f)
 
 
+# All the execution is done on Northeastern's Discovery - High Performance Computing Cluster (HPP)
 
+I loved the recommendations!
 
 
 
