@@ -53,6 +53,19 @@ Best RMSE: 0.9892
 I loved the recommendations!
 
 
+# Future Action Plans:
+
+- Added innovative ‘Mood  Chart’ in the which reflected if someone is happy or depressed
+(I am developing a scripts for this Mood Chart or Mood based recommendation). Furthermore, I am writing codes for scrapping IMDB genres for the listed movies as it can also assist in determining mood/ different types of movies user has recently watched in a form of a dashboard. (Stay Tuned!) 
+
+# What is already done? 
+- Cleansed, Refined and completely integrated Netflix Prize Data (set of txt files) into a single CSV that contains User Ratings, Customer Id (User Id), Movie IDs, Movie Title, User Ratings Date, Genre, and Release Year
+
+- Added Collaborative Filtering process that is recommending a specific user what to watch based on their watch history
+
+- Every code is getting executed on Discovery (Northeastern's High Performance Computing VM) on MAC OS
+
+
 
 
 
