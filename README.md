@@ -1,4 +1,4 @@
-# NetflixRecommendationSystem
+# Netflix Recommendation System
 Tried Different Recommendation Algorithms on Netflix Prize Data downloaded from Kaggle
 
 # Important Git commands
